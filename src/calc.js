@@ -2,4 +2,4 @@
 
 import add from './add';
 
-add(2, 2);
+add(2, 2)
